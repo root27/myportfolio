@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v1.0<br/>
-  <!--<a href="http://soumya-jit.tech/" target="_blank">soumyajit.tech</a>-->
+  <a href="http://oguzhandogan.dev" target="_blank">oguzhandogan.dev</a>
 </h2>
 
 <br/>
@@ -20,7 +20,7 @@
 
 ## Built With
 
-<!--My personal portfolio <a href="http://soumya-jit.tech/" target="_blank">soumyajit.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>-->
+My personal portfolio <a href="http://oguzhandogan.dev" target="_blank">oguzhandogan.dev</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
