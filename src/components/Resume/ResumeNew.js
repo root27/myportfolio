@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import { Container, Row,Col } from "react-bootstrap";
+import { Container} from "react-bootstrap";
 import Button from "react-bootstrap/Button";
 
 import pdf from "../../Assets/../Assets/Oguzhan_Dogan_CV.pdf";
