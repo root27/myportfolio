@@ -271,7 +271,8 @@ button:focus {
     font-weight: 500 !important;
     position: absolute !important;
     margin: 0 auto !important;
-    max-width: fit-content !important;
+    max-width: 600px !important;
+    text-align: center !important;
     
     
   }
