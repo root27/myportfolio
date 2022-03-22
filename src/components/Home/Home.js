@@ -12,9 +12,9 @@ function Home() {
         
         <Container className="home-content">
           
-            <Col md={4} className="home-header">
+            <Col md={2} className="home-header">
 
-              <div style={{ padding: 50}}>
+              <div style={{ padding: 30}}>
                 <Type />
               </div>
             </Col>
