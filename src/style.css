@@ -267,10 +267,13 @@ button:focus {
 
 @media (max-width: 767px) {
   .Typewriter__wrapper {
-    font-size: 10vh !important;
+    font-size: 1.4em !important;
     font-weight: 500 !important;
     position: absolute !important;
-    width: 100% !important;
+    margin: 0 auto !important;
+    max-width: fit-content !important;
+    
+    
   }
   .Typewriter__cursor {
     display: none !important;
