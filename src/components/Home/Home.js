@@ -12,7 +12,7 @@ function Home() {
         
         <Container className="home-content">
           
-            <Col md={8} className="home-header">
+            <Col md={4} className="home-header">
 
               <div style={{ padding: 50}}>
                 <Type />
