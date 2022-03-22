@@ -270,10 +270,10 @@ button:focus {
     font-size: 1.4em !important;
     font-weight: 500 !important;
     position: absolute !important;
-    margin-right: 400px !important;
+    align-self: center !important;
   }
   .Typewriter__cursor {
-    display: none !important;
+    display: inline !important;
   }
 }
 
