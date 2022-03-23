@@ -62,7 +62,7 @@ function Home() {
             </Row>
         </Container>
         
-      </Container>
+      </Container> 
       <Footer />
     </section>
   );
