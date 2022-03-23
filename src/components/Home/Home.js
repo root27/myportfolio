@@ -12,12 +12,13 @@ function Home() {
         
         <Container className="home-content">
           
-            <Col md={2} className="home-header">
+           {/*} <Col md={7} className="home-header">*/}
 
-              <div style={{ padding: 30}}>
+              <div style={{ padding: 50, textAlign:"left"}}>
                 <Type />
               </div>
-            </Col>
+
+            {/*</Col>*/}
           
         </Container>
         
