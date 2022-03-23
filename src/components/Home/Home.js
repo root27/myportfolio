@@ -61,7 +61,7 @@ function Home() {
               </Col>
             </Row>
         </Container>
-        
+           
       </Container> 
       <Footer />
     </section>
