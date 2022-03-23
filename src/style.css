@@ -270,9 +270,9 @@ button:focus {
     font-size: 1.4em !important;
     font-weight: 500 !important;
     position: absolute !important;
-    text-align: left !important;
-    margin-right: 150px !important;
     
+    margin-right: 150px !important;
+    margin-left: 0 !important;
     
     
   }
