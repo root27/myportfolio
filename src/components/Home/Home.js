@@ -1,7 +1,8 @@
 import React from "react";
 import { Container,Row,Col} from "react-bootstrap";
 import Footer from "../Footer"
-
+import { AiFillGithub } from "react-icons/ai";
+import {FaLinkedinIn} from "react-icons/fa";
 
 import Type from "./Type";
 
@@ -30,7 +31,35 @@ function Home() {
               </Col>
 
               <Col md={5} style={{ paddingBottom: 20 }}>
+                  <p>
+                    FIND ME ON
+                  </p>
+                 <br/>
                 
+                <ul className="home-about-social-links">
+                  <li className="social-icons">
+                    <a
+                      href="https://github.com/root27"
+                      target="_blank"
+                      rel="noreferrer"
+                      className="icon-colour  home-social-icons"
+                    >
+                      <AiFillGithub />
+                    </a>
+                  </li>
+                  
+                  <li className="social-icons">
+                    <a
+                      href="https://www.linkedin.com/in/oguzhan-dogan-139620125/"
+                      target="_blank"
+                      rel="noreferrer"
+                      className="icon-colour  home-social-icons"
+                    >
+                      <FaLinkedinIn />
+                    </a>
+                  </li>
+                
+                </ul>
               </Col>
             </Row>
         </Container>
