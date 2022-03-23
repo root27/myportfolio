@@ -30,20 +30,18 @@ function Home() {
                 </div>
               </Col>
 
-              <Col md={5} style={{ paddingBottom: 20 }}>
-                  <p>
+              <Col md={5} style={{ paddingBottom: 20 }} className="home-about-social">
+                <h2>
                     FIND ME ON
-                  </p>
-                 <br/>
+                </h2>
+                <p>
+                    Feel free to connect with me
+                </p>
+                 
                 
                 <ul className="home-about-social-links">
                   <li className="social-icons">
-                    <a
-                      href="https://github.com/root27"
-                      target="_blank"
-                      rel="noreferrer"
-                      className="icon-colour  home-social-icons"
-                    >
+                    <a href="https://github.com/root27" target="_blank" rel="noreferrer" className="icon-colour  home-social-icons">
                       <AiFillGithub />
                     </a>
                   </li>

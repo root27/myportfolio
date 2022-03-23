@@ -1,8 +1,7 @@
 import React from "react";
 import Card from "react-bootstrap/Card";
 import { ImPointRight } from "react-icons/im";
-import { AiFillGithub } from "react-icons/ai";
-import {FaLinkedinIn} from "react-icons/fa";
+
 
 
 function AboutCard() {
@@ -31,39 +30,6 @@ function AboutCard() {
           </ul>
           <br/>
 
-          <p>
-            FIND ME ON
-          </p>
-          <br/>
-            
-            <ul className="home-about-social-links">
-              <li className="social-icons">
-                <a
-                  href="https://github.com/root27"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour  home-social-icons"
-                >
-                  <AiFillGithub />
-                </a>
-              </li>
-              
-              <li className="social-icons">
-                <a
-                  href="https://www.linkedin.com/in/oguzhan-dogan-139620125/"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour  home-social-icons"
-                >
-                  <FaLinkedinIn />
-                </a>
-              </li>
-             
-            </ul>
-
-          
-
-         
         </blockquote>
       </Card.Body>
     </Card>
