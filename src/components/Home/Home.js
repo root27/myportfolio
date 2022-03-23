@@ -14,7 +14,7 @@ function Home() {
           
            {/*} <Col md={7} className="home-header">*/}
 
-              <div style={{ padding: 30, textAlign:"center"}}>
+              <div style={{ paddingLeft: 0, textAlign:"center"}}>
                 <Type />
               </div>
 
